@@ -65,3 +65,12 @@ These are the exact skills used in entry-level Data Analyst / SQL Analyst roles.
 ---
 
 ## 📂 Project Structure
+
+## Results
+
+### Query 1: Total Sales by Beer and Month
+- Lager: 120 pints sold in Jan, 140 in Feb
+- IPA: 100 pints sold in Jan, 130 in Feb
+- Stout: 80 pints sold in Jan, 90 in Feb
+> Lager had the highest total sales overall.  
+> Sales increased from Jan to Feb, indicating growing popularity.
